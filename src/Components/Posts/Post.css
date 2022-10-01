@@ -1,22 +1,24 @@
 .moreView {
   margin: 16px 16px 24px;
   padding: 16px 16px 32px;
-  background-color: #ebeeef;
-  border-radius: 4px;
+  background-color: #ffffff;
+  border-radius: 2px;
 }
 
 .heading {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  text-align: center;
   width: 100%;
+
 }
 .heading :first-child {
-  font-size: 24px;
+  display: inline-block;
+  font-size: 35px;
   color: #002f34;
+  font-style: oblique;
 }
 
 .heading :last-child {
+  justify-content: flex-end;
   font-size: 14px;
   color: #002f34;
 }
@@ -37,13 +39,14 @@
 
 .recommendations {
   margin: 16px 16px 24px;
-  background-color: #ebeeef;
+  background-color: #ffffff;
   padding: 1em;
 }
 
 .recommendations .heading span {
-  font-size: 24px;
+  font-size: 30px;
   color: #002f34;
+  font-style: oblique;
 }
 .postParentDiv{
   padding: auto;

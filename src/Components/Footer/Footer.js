@@ -34,16 +34,6 @@ function Footer() {
           </div>
         </div>
         <div>
-          <div className="heading">
-            <p>Sellit</p>
-          </div>
-          <div className="list">
-            <ul>
-              <li>Help</li>
-              <li>Sitemap</li>
-              <li>Legal & Privacy information</li>
-            </ul>
-          </div>
         </div>
       </div>
       <div className="footer">
